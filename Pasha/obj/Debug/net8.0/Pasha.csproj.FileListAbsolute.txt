@@ -1,0 +1,14 @@
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\bin\Debug\net8.0\Pasha.exe
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\bin\Debug\net8.0\Pasha.deps.json
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\bin\Debug\net8.0\Pasha.runtimeconfig.json
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\bin\Debug\net8.0\Pasha.dll
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\bin\Debug\net8.0\Pasha.pdb
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\obj\Debug\net8.0\Pasha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\obj\Debug\net8.0\Pasha.AssemblyInfoInputs.cache
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\obj\Debug\net8.0\Pasha.AssemblyInfo.cs
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\obj\Debug\net8.0\Pasha.csproj.CoreCompileInputs.cache
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\obj\Debug\net8.0\Pasha.dll
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\obj\Debug\net8.0\refint\Pasha.dll
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\obj\Debug\net8.0\Pasha.pdb
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\obj\Debug\net8.0\Pasha.genruntimeconfig.cache
+C:\Users\Azerty\Desktop\pasha11\Pasha\Pasha\obj\Debug\net8.0\ref\Pasha.dll

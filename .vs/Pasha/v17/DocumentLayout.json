@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D911D039-513D-403F-9E87-273510C01412}|Kogda sdelaesh\\2.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\kogda sdelaesh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D911D039-513D-403F-9E87-273510C01412}|Kogda sdelaesh\\2.csproj|solutionrelative:kogda sdelaesh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D911D039-513D-403F-9E87-273510C01412}|Kogda sdelaesh\\2.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\kogda sdelaesh\\2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D911D039-513D-403F-9E87-273510C01412}|Kogda sdelaesh\\2.csproj|solutionrelative:kogda sdelaesh\\2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D2E344-C3D8-4B39-B84A-914FAAB531A0}|Pasha\\1.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\pasha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D2E344-C3D8-4B39-B84A-914FAAB531A0}|Pasha\\1.csproj|solutionrelative:pasha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D2E344-C3D8-4B39-B84A-914FAAB531A0}|Pasha\\1.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\pasha\\1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1D2E344-C3D8-4B39-B84A-914FAAB531A0}|Pasha\\1.csproj|solutionrelative:pasha\\1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\libraryapp\\editsectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\editsectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\libraryapp\\editsectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\editsectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\libraryapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\libraryapp\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\libraryapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\libraryapp\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\libraryapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|c:\\users\\\u043F\u0430\u0432\u0435\u043B\\desktop\\ass\\linq\\pasha\\libraryapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B37BD098-80DE-4D90-9B81-EF40230295B6}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:39:45.703Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\Pasha\\1.csproj",
+              "RelativeDocumentMoniker": "Pasha\\1.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\Pasha\\1.csproj",
+              "RelativeToolTip": "Pasha\\1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T10:44:36.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\Kogda sdelaesh\\2.csproj",
+              "RelativeDocumentMoniker": "Kogda sdelaesh\\2.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\Kogda sdelaesh\\2.csproj",
+              "RelativeToolTip": "Kogda sdelaesh\\2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T10:41:59.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditSectionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\EditSectionWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryApp\\EditSectionWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\EditSectionWindow.xaml",
+              "RelativeToolTip": "LibraryApp\\EditSectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T10:39:45.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LibraryApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAswF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:39:45.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\Models\\Magazine.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Magazine.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\Models\\Magazine.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Magazine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:39:45.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\Pasha\\Program.cs",
+              "RelativeDocumentMoniker": "Pasha\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\Pasha\\Program.cs",
+              "RelativeToolTip": "Pasha\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:39:45.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\Kogda sdelaesh\\Program.cs",
+              "RelativeDocumentMoniker": "Kogda sdelaesh\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\Kogda sdelaesh\\Program.cs",
+              "RelativeToolTip": "Kogda sdelaesh\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv1MAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:39:45.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditSectionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\EditSectionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\EditSectionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\EditSectionWindow.xaml.cs",
+              "RelativeToolTip": "LibraryApp\\EditSectionWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA9wBUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:39:45.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\Models\\Section.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Section.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:39:45.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\Models\\Library.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Library.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:39:45.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0432\u0435\u043B\\Desktop\\ass\\linq\\Pasha\\LibraryApp\\MainWindow.xaml",
+              "RelativeToolTip": "LibraryApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T10:39:45.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
